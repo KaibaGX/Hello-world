@@ -1,2 +1,4 @@
 # Hello-world
-My first Repo
+
+-First repo created
+-First issue created
